@@ -17,6 +17,7 @@ while (ch <= 'z')
 {
 _putchar('\n');
 i++;
+return;
 }
 }
 }
